@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #1B4F7C;
+}
+.header{
+	display: none;
+}
+.page{
+	background-color:aliceblue;
+	margin: 5% 10%;
+	border-radius: 10px;
+}
+#image{
+	float: left;
+	padding-top: 2%;
+	margin: 0% 2%;
+}
+.title{
+	padding: 3%;
+}
+.content{
+	padding-bottom: 20%;	
+}
+.newInput{
+	margin: 0 25% 0 25%;
+	font-family: verdana;
+}
+.newInput button{
+	margin-top: 20px;
+	margin-left: 35%;
+	margin-bottom: 20px;
+	font-family: verdana;
+	padding: 2%;
+}
+.newInput textarea{
+	font-family: verdana;
+}
+.main{
+	background-position: 0% 10%;
+	padding-top: 10%;
+}
+.banner{
+	background-image: url(../images/INDRA3.png);
+    background-repeat: no-repeat;
+	background-size: 50%;
+	padding: 12%;
+	background-position: center
+}
+.topmenu{
+	float: right;
+	padding-top: 2%;
+}
+.topmenu li{
+	display: inline;
+}
+.topmenu a{
+	background-color:cornflowerblue;
+	font-size: 20px;
+	color: black;
+	font-family:"Verdana";
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 10px 10px 0px 0px;
+}
+.right{
+	padding: 2% 2% 2% 2%;
+}
+.right a{
+	font-size: 16px;
+	color: black;
+	font-family:"Verdana";
+	text-decoration: none;
+}
+.right p{
+	font-size: 16px;
+	color: black;
+	font-family:"Verdana";
+	text-decoration: none;
+}
+.right h1{
+	font-size: 20px;
+	color: black;
+	font-family:"Verdana";
+	text-decoration: none;
+}
+.footer1{
+	float: left;
+	margin: 0% 34% 0% 34%;
+	background-color: aliceblue;
+}
+
+.footer1{
+	font-family: Verdana;
+	font-size: 13px;
+}
+
+.oculto	 {display: none;}
+.visible {display: block;}
